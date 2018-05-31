@@ -1,0 +1,346 @@
+{
+    "contents": [
+        {
+            "row": "A",
+            "slots": [
+                {
+                    "current_stock": 2,
+                    "item_name": "Coke",
+                    "item_price": 1.75,
+                    "last_stock": 3,
+                    "slot_number": 1
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Coke",
+                    "item_price": 1.75,
+                    "last_stock": 6,
+                    "slot_number": 2
+                },
+                {
+                    "current_stock": 1,
+                    "item_name": "Coke",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 3
+                },
+                {
+                    "current_stock": 3,
+                    "item_name": "Coke",
+                    "item_price": 1.75,
+                    "last_stock": 3,
+                    "slot_number": 4
+                },
+                {
+                    "current_stock": 2,
+                    "item_name": "Coke",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 5
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Coke",
+                    "item_price": 1.75,
+                    "last_stock": 5,
+                    "slot_number": 6
+                },
+                {
+                    "current_stock": 6,
+                    "item_name": "Coke Zero",
+                    "item_price": 1.75,
+                    "last_stock": 8,
+                    "slot_number": 7
+                },
+                {
+                    "current_stock": 2,
+                    "item_name": "Coke Zero",
+                    "item_price": 1.75,
+                    "last_stock": 4,
+                    "slot_number": 8
+                },
+                {
+                    "current_stock": 4,
+                    "item_name": "Coke Zero",
+                    "item_price": 1.75,
+                    "last_stock": 7,
+                    "slot_number": 9
+                }
+            ]
+        },
+        {
+            "row": "B",
+            "slots": [
+                {
+                    "current_stock": 6,
+                    "item_name": "Diet Coke",
+                    "item_price": 1.75,
+                    "last_stock": 7,
+                    "slot_number": 1
+                },
+                {
+                    "current_stock": 3,
+                    "item_name": "Diet Coke",
+                    "item_price": 1.75,
+                    "last_stock": 5,
+                    "slot_number": 2
+                },
+                {
+                    "current_stock": 2,
+                    "item_name": "Diet Coke",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 3
+                },
+                {
+                    "current_stock": 5,
+                    "item_name": "Diet Coke",
+                    "item_price": 1.75,
+                    "last_stock": 5,
+                    "slot_number": 4
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Diet Coke",
+                    "item_price": 1.75,
+                    "last_stock": 4,
+                    "slot_number": 5
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Diet Coke",
+                    "item_price": 1.75,
+                    "last_stock": 7,
+                    "slot_number": 6
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Sprite",
+                    "item_price": 1.75,
+                    "last_stock": 5,
+                    "slot_number": 7
+                },
+                {
+                    "current_stock": 7,
+                    "item_name": "Sprite",
+                    "item_price": 1.75,
+                    "last_stock": 7,
+                    "slot_number": 8
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Sprite",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 9
+                }
+            ]
+        },
+        {
+            "row": "C",
+            "slots": [
+                {
+                    "current_stock": 1,
+                    "item_name": "Sprite",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 1
+                },
+                {
+                    "current_stock": 4,
+                    "item_name": "Sprite",
+                    "item_price": 1.75,
+                    "last_stock": 8,
+                    "slot_number": 2
+                },
+                {
+                    "current_stock": 8,
+                    "item_name": "Sprite",
+                    "item_price": 1.75,
+                    "last_stock": 8,
+                    "slot_number": 3
+                },
+                {
+                    "current_stock": 1,
+                    "item_name": "Gold Peak Tea",
+                    "item_price": 1.75,
+                    "last_stock": 6,
+                    "slot_number": 4
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Gold Peak Tea",
+                    "item_price": 1.75,
+                    "last_stock": 6,
+                    "slot_number": 5
+                },
+                {
+                    "current_stock": 2,
+                    "item_name": "Gold Peak Tea",
+                    "item_price": 1.75,
+                    "last_stock": 5,
+                    "slot_number": 6
+                },
+                {
+                    "current_stock": 2,
+                    "item_name": "Gold Peak Tea",
+                    "item_price": 1.75,
+                    "last_stock": 6,
+                    "slot_number": 7
+                },
+                {
+                    "current_stock": 7,
+                    "item_name": "Gold Peak Tea",
+                    "item_price": 1.75,
+                    "last_stock": 7,
+                    "slot_number": 8
+                },
+                {
+                    "current_stock": 2,
+                    "item_name": "Gold Peak Tea",
+                    "item_price": 1.75,
+                    "last_stock": 8,
+                    "slot_number": 9
+                }
+            ]
+        },
+        {
+            "row": "D",
+            "slots": [
+                {
+                    "current_stock": 0,
+                    "item_name": "Dasani",
+                    "item_price": 1.75,
+                    "last_stock": 6,
+                    "slot_number": 1
+                },
+                {
+                    "current_stock": 1,
+                    "item_name": "Dasani",
+                    "item_price": 1.75,
+                    "last_stock": 6,
+                    "slot_number": 2
+                },
+                {
+                    "current_stock": 4,
+                    "item_name": "Dasani",
+                    "item_price": 1.75,
+                    "last_stock": 4,
+                    "slot_number": 3
+                },
+                {
+                    "current_stock": 4,
+                    "item_name": "Dasani",
+                    "item_price": 1.75,
+                    "last_stock": 6,
+                    "slot_number": 4
+                },
+                {
+                    "current_stock": 6,
+                    "item_name": "Dasani",
+                    "item_price": 1.75,
+                    "last_stock": 7,
+                    "slot_number": 5
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Dasani",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 6
+                },
+                {
+                    "current_stock": 3,
+                    "item_name": "Powerade",
+                    "item_price": 1.75,
+                    "last_stock": 4,
+                    "slot_number": 7
+                },
+                {
+                    "current_stock": 2,
+                    "item_name": "Powerade",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 8
+                },
+                {
+                    "current_stock": 1,
+                    "item_name": "Powerade",
+                    "item_price": 1.75,
+                    "last_stock": 4,
+                    "slot_number": 9
+                }
+            ]
+        },
+        {
+            "row": "E",
+            "slots": [
+                {
+                    "current_stock": 0,
+                    "item_name": "Smart Water",
+                    "item_price": 1.75,
+                    "last_stock": 3,
+                    "slot_number": 1
+                },
+                {
+                    "current_stock": 3,
+                    "item_name": "Smart Water",
+                    "item_price": 1.75,
+                    "last_stock": 7,
+                    "slot_number": 2
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Smart Water",
+                    "item_price": 1.75,
+                    "last_stock": 5,
+                    "slot_number": 3
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Monster Energy",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 4
+                },
+                {
+                    "current_stock": 3,
+                    "item_name": "Monster Energy",
+                    "item_price": 1.75,
+                    "last_stock": 3,
+                    "slot_number": 5
+                },
+                {
+                    "current_stock": 4,
+                    "item_name": "Monster Energy",
+                    "item_price": 1.75,
+                    "last_stock": 4,
+                    "slot_number": 6
+                },
+                {
+                    "current_stock": 1,
+                    "item_name": "Monster Energy Zero",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 7
+                },
+                {
+                    "current_stock": 2,
+                    "item_name": "Monster Energy Zero",
+                    "item_price": 1.75,
+                    "last_stock": 2,
+                    "slot_number": 8
+                },
+                {
+                    "current_stock": 0,
+                    "item_name": "Monster Energy Zero",
+                    "item_price": 1.75,
+                    "last_stock": 8,
+                    "slot_number": 9
+                }
+            ]
+        }
+    ],
+    "machine_id": "X2077071147",
+    "machine_label": "REID_3F"
+}
